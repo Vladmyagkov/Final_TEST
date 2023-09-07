@@ -27,7 +27,7 @@ ________________________________________________________________________________
 Программа находится в ветке master
 Код программы:
 
-string[] CreateArray()
+String[] CreateArray()
 {
     Console.Write("Введите размер массива: ");
     int size = Convert.ToInt32(Console.ReadLine());
